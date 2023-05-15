@@ -1,0 +1,6 @@
+﻿C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\CRUDMethodes.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\DBContextDGSN.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Interface\IGeneriqueCRUD.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\20230509233450_initMig.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\20230509233450_initMig.Designer.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\DBContextDGSNModelSnapshot.cs

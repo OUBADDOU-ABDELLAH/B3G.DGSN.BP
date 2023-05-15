@@ -1,0 +1,5 @@
+﻿C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\JWTHeader.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\OpenIdToken.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\RSAJsonWebKey.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\RSAJsonWebKeys.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\Session.cs

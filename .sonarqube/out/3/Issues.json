@@ -1,0 +1,1567 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 33,
+                  "endLine": 57,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Existence possible d'un retour de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 24,
+                  "endLine": 86,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Existence possible d'un retour de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 28,
+                  "endLine": 94,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Code inaccessible détecté",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 17,
+                  "endLine": 100,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "La variable 'e5' est déclarée, mais jamais utilisée",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 28,
+                  "endLine": 131,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Existence possible d'une assignation de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 65,
+                  "endLine": 132,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Déréférencement d'une éventuelle référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 17,
+                  "endLine": 176,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 194,
+                  "startColumn": 36,
+                  "endLine": 194,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 256,
+                  "startColumn": 38,
+                  "endLine": 256,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Déréférencement d'une éventuelle référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 21,
+                  "endLine": 282,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Existence possible d'un retour de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 553,
+                  "startColumn": 19,
+                  "endLine": 553,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 17,
+                  "endLine": 45,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 41,
+                  "endLine": 61,
+                  "endColumn": 113
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 13,
+                  "endLine": 62,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 13,
+                  "endLine": 110,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 13,
+                  "endLine": 134,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 1,
+                  "endLine": 153,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 174,
+                  "startColumn": 16,
+                  "endLine": 174,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 16,
+                  "endLine": 179,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 15,
+                  "endLine": 184,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 187,
+                  "startColumn": 13,
+                  "endLine": 187,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 12,
+                  "endLine": 193,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 20,
+                  "endLine": 210,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 218,
+                  "startColumn": 13,
+                  "endLine": 218,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 229,
+                  "startColumn": 20,
+                  "endLine": 229,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 237,
+                  "startColumn": 17,
+                  "endLine": 237,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 243,
+                  "startColumn": 17,
+                  "endLine": 243,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 249,
+                  "startColumn": 16,
+                  "endLine": 249,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 271,
+                  "startColumn": 17,
+                  "endLine": 271,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 304,
+                  "startColumn": 21,
+                  "endLine": 304,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 320,
+                  "startColumn": 1,
+                  "endLine": 320,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 494,
+                  "startColumn": 13,
+                  "endLine": 494,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 496,
+                  "startColumn": 13,
+                  "endLine": 496,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 506,
+                  "startColumn": 13,
+                  "endLine": 506,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 512,
+                  "startColumn": 13,
+                  "endLine": 512,
+                  "endColumn": 159
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 542,
+                  "startColumn": 17,
+                  "endLine": 542,
+                  "endColumn": 84
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 546,
+                  "startColumn": 13,
+                  "endLine": 546,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/INTERFACES/IDGSNFunc.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 8,
+                  "endLine": 17,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename interface 'IDGSNFunc' to match pascal case naming rules, consider using 'IDgsnFunc'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/INTERFACES/IDGSNFunc.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 22,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_service' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 25,
+                  "endLine": 18,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'DGSNFuncService' to match pascal case naming rules, consider using 'DgsnFuncService'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 18,
+                  "endLine": 16,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_repo' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/SessionServices.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 41,
+                  "endLine": 18,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 23,
+                  "endLine": 127,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 13,
+                  "endLine": 171,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 176,
+                  "startColumn": 13,
+                  "endLine": 176,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 13,
+                  "endLine": 181,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 198,
+                  "startColumn": 13,
+                  "endLine": 198,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 202,
+                  "startColumn": 17,
+                  "endLine": 202,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 220,
+                  "startColumn": 13,
+                  "endLine": 220,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 225,
+                  "startColumn": 17,
+                  "endLine": 225,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 225,
+                  "startColumn": 28,
+                  "endLine": 225,
+                  "endColumn": 30
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 234,
+                  "startColumn": 13,
+                  "endLine": 234,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 13,
+                  "endLine": 240,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 246,
+                  "startColumn": 13,
+                  "endLine": 246,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 257,
+                  "startColumn": 13,
+                  "endLine": 257,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 269,
+                  "startColumn": 13,
+                  "endLine": 269,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 13,
+                  "endLine": 282,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+1",
+              "11": "+1",
+              "12": "+1",
+              "13": "+1",
+              "2": "+1",
+              "3": "+1",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+1",
+              "6": "+2 (incl 1 for nesting)",
+              "7": "+1",
+              "8": "+1",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'erreur'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 35,
+                  "endLine": 34,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'erreur'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 31,
+                  "endLine": 40,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4426",
+          "level": "warning",
+          "message": "Use a key length of at least 2048 bits for RSA cipher algorithm.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 289,
+                  "startColumn": 56,
+                  "endLine": 289,
+                  "endColumn": 86
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 13,
+                  "endLine": 30,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Trim'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 498,
+                  "startColumn": 13,
+                  "endLine": 498,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 482,
+                  "startColumn": 32,
+                  "endLine": 482,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 486,
+                  "startColumn": 34,
+                  "endLine": 486,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1075",
+          "level": "warning",
+          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 82,
+                  "endLine": 80,
+                  "endColumn": 124
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1806",
+          "level": "note",
+          "message": "SendUserToDGSN calls Trim but does not use the new string instance that the method returns. Pass the instance as an argument to another method, assign the instance to a variable, or remove the call if it is unnecessary.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.SERVICE/ImplemetInterface/DGSNFuncService.cs",
+                "region": {
+                  "startLine": 498,
+                  "startColumn": 13,
+                  "endLine": 498,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1806": {
+          "id": "CA1806",
+          "shortDescription": "Do not ignore method results",
+          "fullDescription": "A new object is created but never used; or a method that creates and returns a new string is called and the new string is never used; or a COM or P/Invoke method returns an HRESULT or error code that is never used.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1806",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS0162": {
+          "id": "CS0162",
+          "shortDescription": "Code inaccessible détecté",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0162)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "La variable est déclarée mais jamais utilisée",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8601": {
+          "id": "CS8601",
+          "shortDescription": "Existence possible d'une assignation de référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8601)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Déréférencement d'une éventuelle référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8603": {
+          "id": "CS8603",
+          "shortDescription": "Existence possible d'un retour de référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8603)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Collapsible \"if\" statements should be merged",
+          "fullDescription": "Merging collapsible if statements increases the code's readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1075": {
+          "id": "S1075",
+          "shortDescription": "URIs should not be hardcoded",
+          "fullDescription": "Hardcoding a URI makes it difficult to test a program: path literals are not always portable across operating systems, a given absolute path may not exist on a specific test environment, a specified Internet URL may not be available when executing the tests, production environment filesystems usually differ from the development environment, ...etc. For all those reasons, a URI should never be hardcoded. Instead, it should be replaced by customizable parameter.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1075",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2201": {
+          "id": "S2201",
+          "shortDescription": "Return values from functions without side effects should not be ignored",
+          "fullDescription": "When the call to a function doesn't have any side effects, what is the point of making the call if the results are ignored? In such case, either the function call is useless and should be dropped or the source code doesn't behave as expected.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2201",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4426": {
+          "id": "S4426",
+          "shortDescription": "Cryptographic keys should be robust",
+          "fullDescription": "Most of cryptographic systems require a sufficient key size to be robust against brute-force attacks.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4426",
+          "properties": {
+            "category": "Critical Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

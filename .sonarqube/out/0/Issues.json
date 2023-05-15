@@ -1,0 +1,1095 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_accessToken' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 54,
+                  "endLine": 12,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 54,
+                  "endLine": 12,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_idToken' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 50,
+                  "endLine": 14,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 50,
+                  "endLine": 14,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_scope' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 47,
+                  "endLine": 15,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 47,
+                  "endLine": 15,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_tokenType' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 52,
+                  "endLine": 16,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 52,
+                  "endLine": 16,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété 'state' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/Session.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/Session.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_use' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 45,
+                  "endLine": 12,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 45,
+                  "endLine": 12,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_kty' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 45,
+                  "endLine": 13,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 45,
+                  "endLine": 13,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_kid' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 45,
+                  "endLine": 14,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 45,
+                  "endLine": 14,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_alg' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 45,
+                  "endLine": 15,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 45,
+                  "endLine": 15,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_n' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 43,
+                  "endLine": 16,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 43,
+                  "endLine": 16,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ '_e' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 43,
+                  "endLine": 17,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 43,
+                  "endLine": 17,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété '_typ' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété '_key' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété '_alg' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété '_kid' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "Impossible de convertir un littéral ayant une valeur null en type référence non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 20,
+                  "endLine": 13,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Existence possible d'une assignation de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 25,
+                  "endLine": 20,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Existence possible d'une assignation de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 28,
+                  "endLine": 33,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le champ 'keys' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 55,
+                  "endLine": 10,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 55,
+                  "endLine": 10,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'RSAJsonWebKey' to match pascal case naming rules, consider using 'RsaJsonWebKey'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1939",
+          "level": "warning",
+          "message": "'Object' should not be explicitly extended.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 30,
+                  "endLine": 10,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "redundantIndex": "0"
+            }
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 47,
+                  "endLine": 15,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 50,
+                  "endLine": 13,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 50,
+                  "endLine": 14,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 54,
+                  "endLine": 12,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/OpenIdToken.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 52,
+                  "endLine": 16,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'JWTHeader' to match pascal case naming rules, consider using 'JwtHeader'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/JWTHeader.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 55,
+                  "endLine": 10,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 45,
+                  "endLine": 13,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 45,
+                  "endLine": 12,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 45,
+                  "endLine": 14,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 45,
+                  "endLine": 15,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 43,
+                  "endLine": 16,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKey.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 43,
+                  "endLine": 17,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'RSAJsonWebKeys' to match pascal case naming rules, consider using 'RsaJsonWebKeys'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.DOMAIN/RSAJsonWebKeys.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 13,
+                  "endLine": 41,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS8601": {
+          "id": "CS8601",
+          "shortDescription": "Existence possible d'une assignation de référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8601)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un champ non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8625": {
+          "id": "CS8625",
+          "shortDescription": "Impossible de convertir un littéral ayant une valeur null en type référence non-nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8625)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1104": {
+          "id": "S1104",
+          "shortDescription": "Fields should not have public accessibility",
+          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and has three main disadvantages:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1939": {
+          "id": "S1939",
+          "shortDescription": "Inheritance list should not be redundant",
+          "fullDescription": "An inheritance list entry is redundant if:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1939",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3626": {
+          "id": "S3626",
+          "shortDescription": "Jump statements should not be redundant",
+          "fullDescription": "Jump statements, such as return, yield break, goto, and continue let you change the default flow of program execution, but jump statements that direct the control flow to the original direction are just a waste of keystrokes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3626",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

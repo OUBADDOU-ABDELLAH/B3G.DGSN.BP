@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "S2699",
+          "level": "warning",
+          "message": "Add at least one assertion to this test case.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/TEST/UnitTest1.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 21,
+                  "endLine": 6,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S2699": {
+          "id": "S2699",
+          "shortDescription": "Tests should include assertions",
+          "fullDescription": "A test case without assertions ensures only that no exceptions are thrown. Beyond basic runnability, it ensures nothing about the behavior of the code under test.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2699",
+          "properties": {
+            "category": "Blocker Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

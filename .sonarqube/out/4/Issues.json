@@ -1,0 +1,271 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 30,
+                  "endLine": 40,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 31,
+                  "endLine": 41,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 31,
+                  "endLine": 42,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 33,
+                  "endLine": 43,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Existence possible d'un argument de référence null pour le paramètre 'code' dans 'string IDGSNFunc.RedirectUrl(string code, string state, string codeError, string ErrorDescription)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 41,
+                  "endLine": 45,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Existence possible d'un argument de référence null pour le paramètre 'state' dans 'string IDGSNFunc.RedirectUrl(string code, string state, string codeError, string ErrorDescription)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 50,
+                  "endLine": 45,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Existence possible d'un argument de référence null pour le paramètre 'codeError' dans 'string IDGSNFunc.RedirectUrl(string code, string state, string codeError, string ErrorDescription)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 60,
+                  "endLine": 45,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Existence possible d'un argument de référence null pour le paramètre 'ErrorDescription' dans 'string IDGSNFunc.RedirectUrl(string code, string state, string codeError, string ErrorDescription)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 70,
+                  "endLine": 45,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 42,
+                  "endLine": 38,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone. Utilisez l'opérateur 'await' pour attendre les appels d'API non bloquants ou 'await Task.Run(…)' pour effectuer un travail utilisant le processeur sur un thread d'arrière-plan.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN/Controllers/FawriDGSNController.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 42,
+                  "endLine": 52,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Cette méthode async n'a pas d'opérateur 'await' et elle s'exécutera de façon synchrone",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Conversion de littéral ayant une valeur null ou d'une éventuelle valeur null en type non-nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Existence possible d'un argument de référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

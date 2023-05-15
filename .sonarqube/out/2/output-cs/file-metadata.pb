@@ -1,0 +1,10 @@
+[
+RC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\CRUDMethodes.csutf-8\
+SC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\DBContextDGSN.csutf-8g
+^C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Interface\IGeneriqueCRUD.csutf-8p
+gC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\20230509233450_initMig.csutf-8{
+pC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\20230509233450_initMig.Designer.csutf-8v
+kC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\Migrations\DBContextDGSNModelSnapshot.csutf-8„
+yC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\obj\Debug\net6.0\B3G.DGSN.REPOSITORY.GlobalUsings.g.csutf-8Ž
+‚C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8‚
+wC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.REPOSITORY\obj\Debug\net6.0\B3G.DGSN.REPOSITORY.AssemblyInfo.csutf-8

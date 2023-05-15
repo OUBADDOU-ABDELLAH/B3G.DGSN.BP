@@ -1,0 +1,12 @@
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\bin\Debug\net6.0\B3G.DGSN.DOMAIN.deps.json
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\bin\Debug\net6.0\B3G.DGSN.DOMAIN.dll
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\bin\Debug\net6.0\B3G.DGSN.DOMAIN.pdb
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.AssemblyInfo.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.dll
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\refint\B3G.DGSN.DOMAIN.dll
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.pdb
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\ref\B3G.DGSN.DOMAIN.dll

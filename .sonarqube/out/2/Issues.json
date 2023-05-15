@@ -1,0 +1,295 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilateur Microsoft (R) Visual C#",
+        "version": "4.5.0.0",
+        "fileVersion": "4.5.2-3.23171.7 (d17f7415)",
+        "semanticVersion": "4.5.0",
+        "language": "fr-FR"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Le propriété 'Sessions' non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le propriété comme nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/DBContextDGSN.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 16,
+                  "endLine": 10,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/DBContextDGSN.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 31,
+                  "endLine": 13,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS4014",
+          "level": "warning",
+          "message": "Dans la mesure où cet appel n'est pas attendu, l'exécution de la méthode actuelle continue avant la fin de l'appel. Envisagez d'appliquer l'opérateur 'await' au résultat de l'appel.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/CRUDMethodes.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 13,
+                  "endLine": 18,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Existence possible d'un retour de référence null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/CRUDMethodes.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 20,
+                  "endLine": 26,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'DBContextDGSN' to match pascal case naming rules, consider using 'DbContextDgsn'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/DBContextDGSN.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename interface 'IGeneriqueCRUD' to match pascal case naming rules, consider using 'IGeneriqueCrud'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/Interface/IGeneriqueCRUD.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 22,
+                  "endLine": 4,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_context' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/CRUDMethodes.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 31,
+                  "endLine": 12,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CRUDMethodes' to match pascal case naming rules, consider using 'CrudMethodes'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/CRUDMethodes.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2012",
+          "level": "note",
+          "message": "ValueTask instances returned from method calls should always be used, typically awaited. Not doing so often represents a functional bug, but even if it doesn't, it can result in degraded performance if the target method pools objects for use with ValueTasks.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ITAdministrator/source/repos/B3G.DGSN/B3G.DGSN.REPOSITORY/CRUDMethodes.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 13,
+                  "endLine": 18,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA2012": {
+          "id": "CA2012",
+          "shortDescription": "Use ValueTasks correctly",
+          "fullDescription": "ValueTasks returned from member invocations are intended to be directly awaited.  Attempts to consume a ValueTask multiple times or to directly access one's result before it's known to be completed may result in an exception or corruption.  Ignoring such a ValueTask is likely an indication of a functional bug and may degrade performance.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2012",
+          "properties": {
+            "category": "Reliability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS4014": {
+          "id": "CS4014",
+          "shortDescription": "Dans la mesure où cet appel n'est pas attendu, l'exécution de la méthode actuelle continue avant la fin de l'appel",
+          "fullDescription": "La méthode actuelle appelle une méthode async qui retourne Task ou Task<TResult>. Par ailleurs, elle n'applique pas l'opérateur await au résultat. L'appel de la méthode async démarre une tâche asynchrone. Cependant, comme aucun opérateur await n'est appliqué, le programme continue sans attendre la fin de la tâche. Généralement, ce comportement n'est pas celui que vous attendez. La plupart du temps, les autres aspects de la méthode d'appel dépendent du résultat de l'appel ou, au minimum, la méthode appelée doit s'achever avant le retour de la méthode contenant l'appel.\u000d\u000a\u000d\u000aUn problème de même importance est ce qui arrive aux exceptions levées dans la méthode async appelée. Une exception levée dans une méthode qui retourne Task ou Task<TResult> est stockée dans la tâche retournée. Si vous n'attendez pas la tâche ou la vérification explicite d'exceptions, l'exception est perdue. Si vous attendez la tâche, son exception est à nouveau levée.\u000d\u000a\u000d\u000aNous vous recommandons de toujours attendre l'appel.\u000d\u000a\u000d\u000aSupprimez l'avertissement seulement si vous êtes sûr de ne pas vouloir attendre la fin de l'appel asynchrone, et que la méthode appelée ne lèvera aucune exception. Dans ce cas, vous pouvez supprimer l'avertissement en affectant le résultat de la tâche de l'appel à une variable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS4014)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8603": {
+          "id": "CS8603",
+          "shortDescription": "Existence possible d'un retour de référence null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8603)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un champ non-nullable doit contenir une valeur non-null lors de la fermeture du constructeur. Envisagez de déclarer le champ comme nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

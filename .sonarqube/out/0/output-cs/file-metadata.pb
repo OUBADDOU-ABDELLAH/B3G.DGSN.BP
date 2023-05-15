@@ -1,0 +1,9 @@
+T
+KC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\JWTHeader.csutf-8V
+MC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\OpenIdToken.csutf-8X
+OC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\RSAJsonWebKey.csutf-8Y
+PC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\RSAJsonWebKeys.csutf-8R
+IC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\Session.csutf-8|
+qC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.GlobalUsings.g.csutf-8‰
+~C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8z
+oC:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.DOMAIN\obj\Debug\net6.0\B3G.DGSN.DOMAIN.AssemblyInfo.csutf-8

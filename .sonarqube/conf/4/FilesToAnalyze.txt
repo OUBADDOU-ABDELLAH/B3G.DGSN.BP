@@ -1,0 +1,9 @@
+﻿C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\Controllers\FawriDGSNController.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\Program.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\obj\Debug\net6.0\B3G.DGSN.GlobalUsings.g.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\obj\Debug\net6.0\B3G.DGSN.AssemblyInfo.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\obj\Debug\net6.0\B3G.DGSN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\appsettings.Development.json
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\appsettings.json
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN\Properties\launchSettings.json

@@ -1,0 +1,4 @@
+﻿C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.SERVICE\ImplemetInterface\DGSNFuncService.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.SERVICE\ImplemetInterface\SessionServices.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.SERVICE\INTERFACES\IDGSNFunc.cs
+C:\Users\ITAdministrator\source\repos\B3G.DGSN\B3G.DGSN.SERVICE\INTERFACES\ISessionService.cs
